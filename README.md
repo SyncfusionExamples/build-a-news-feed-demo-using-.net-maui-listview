@@ -1,4 +1,4 @@
-# build-a-news-feed-demo-using-.net-maui-listview
+# Build a NewsFeed demo application using .NET MAUI ListView (SfListView).
 
 This demo explains about how to create the NewsFeed demo application using .NET MAUI ListView (SfListView).
 
